@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #f019ba8f;
+    --laranja-claro: #f019ba3b;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ff00c873;
+    --alto-contraste-link: #ff00c8fb;
 }
 
 
@@ -144,7 +144,7 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #ac44ac65;
+    background-color: #ac44ac00;
 }
 .menu-acessibilidade{
     position: fixed;
